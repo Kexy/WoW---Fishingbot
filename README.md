@@ -1,0 +1,1 @@
+Please only use this bot on private servers since blizzard detects automated mouse movements.
